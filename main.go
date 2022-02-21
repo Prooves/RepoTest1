@@ -5,5 +5,6 @@ package main
 import "fmt"
 
 func main() {
-	fmt.Println("Ave mundo!")
+	name := "Scooby"
+	fmt.Printf("Ave mundo! %s\n", name)
 }
