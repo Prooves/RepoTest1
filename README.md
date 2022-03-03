@@ -5,3 +5,5 @@
 "When you cannot think for yourself you can always quote" - Ludwig Wittgenstein
 
 "Do you take the red pill or the blue pill?" - Morpheus, Matrix
+
+"Ar'ya ready kids!?" - Some pirate
