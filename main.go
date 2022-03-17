@@ -12,6 +12,6 @@ func fib(n int) int {
 }
 
 func main() {
-	name := "Scooby"
+	name := "Dooby"
 	fmt.Printf("Ave mundo! %s\n", name)
 }
