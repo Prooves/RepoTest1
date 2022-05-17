@@ -10,6 +10,8 @@
 
 "Carthago delenda est" - Marcus Cato 
 
+"Veni vidi vici" - Julius Caesar
+
 Praeterea censeo Carthaginem esse delendam
 
 "Cowabunga!" - Teenage Mutant Ninja Turtles
