@@ -12,6 +12,8 @@
 
 "Veni vidi vici" - Julius Caesar
 
+"To be or not to be" - Hamlet
+
 Praeterea censeo Carthaginem esse delendam
 
 "Cowabunga!" - Teenage Mutant Ninja Turtles
