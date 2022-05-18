@@ -11,6 +11,10 @@ func fib(n int) int {
 	return fib(n-1) + fib(n-2)
 }
 
+func add(x, y int) int {
+	return x+y
+}
+
 func main() {
 	name := "Scooby"
 	fmt.Printf("Ave mundo! %s\n", name)
