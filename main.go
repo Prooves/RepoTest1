@@ -11,6 +11,7 @@ func fib(n int) int {
 	return fib(n-1) + fib(n-2)
 }
 
+// adds two intergers and returns the sum
 func add(x, y int) int {
 	return x+y
 }
