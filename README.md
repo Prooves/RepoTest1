@@ -23,3 +23,5 @@ Praeterea censeo Carthaginem esse delendam
 "Längst Skånes gråa västra kust, där bor en flera tusen fast de inte har lust, i Landskrona" - Lundaspexarna, Landskrona
 
 "Tis but a scratch" - The Black Knight
+
+"Money for nothing" - Dire straits
