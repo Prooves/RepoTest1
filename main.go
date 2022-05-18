@@ -19,6 +19,7 @@ func add(x, y int) int {
 
 func main() {
 	name := "Scooby"
+	z := add(1,2)
 	fmt.Printf("Ave mundo! %s\n", name)
 	fmt.Println(fib(20))
 }
