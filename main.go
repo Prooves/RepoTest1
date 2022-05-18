@@ -2,6 +2,7 @@ package main
 
 import "fmt"
 
+// Recursive
 func fib(n int) int {
 	if n <= 0 {
 		return 0
