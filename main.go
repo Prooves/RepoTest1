@@ -22,4 +22,5 @@ func main() {
 	z := add(1,2)
 	fmt.Printf("Ave mundo! %s\n", name)
 	fmt.Println(fib(20))
+	fmt.Println("Ave Maria")
 }
