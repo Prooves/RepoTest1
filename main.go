@@ -26,4 +26,6 @@ func main() {
 	fmt.Println("Why hath thou forsakened me?")
 	fmt.Println("Blahhhhh")
 	fmt.Println("Hallelujah!")
+	fmt.Println("Hare krishna!")
+	fmt.Println("Hail Beezlebub!")
 }
