@@ -40,3 +40,6 @@ aaa
 1686573810
 1687164022
 something
+
+Vill du jämföra mig med en sommardag?
+
