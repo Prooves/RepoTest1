@@ -46,3 +46,5 @@ Vill du jämföra mig med en sommardag?
 Ytterligare en fantastisk commit!!
 
 "Frankly, I had enjoyed the war," - Sir Adrian Carton de Wiart
+
+"Truth, like beauty, is in the eye of the beholder" - Elim Garak
